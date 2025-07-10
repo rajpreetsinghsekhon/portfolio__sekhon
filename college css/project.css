@@ -1,0 +1,125 @@
+body{
+    text-align: center;
+    background-color: rgb(26,29,36);
+    transition-property: transform;
+    transition-duration: 0.4s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+}
+
+#head{
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(35, 34, 34, 0);
+    border-radius: 10px;
+    box-shadow: 0px 0px 100px 10px white;
+    
+    
+
+}
+
+h4{
+    padding: 15px;
+}
+
+#first{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 180px;
+    padding: 20px;
+    margin-top: 100px;
+    font-size: 28px;
+    box-shadow: 0px 0px 50px 0px rgb(136, 187, 224);
+}
+
+#st{
+    background-color: #232e5200;
+    border-color: rgb(0,150,255);
+    border-radius: 10px;
+    padding: 10px;
+    width: 180px;
+    color:rgb(0,150,255);
+    font-weight: 800;
+    margin-top: 60px;
+    box-shadow: 0px 0px 50px 0px black;
+}
+
+#second{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 580px;
+    padding: 20px;
+    margin-top: -440px;
+    font-size: 28px;
+    box-shadow: 0px 0px 50px 0px rgb(136, 187, 224);
+}
+
+#sec{
+    background-color: #232e5200;
+    border-color: rgb(0,150,255);
+    border-radius: 10px;
+    padding: 10px;
+    width: 180px;
+    color:rgb(0,150,255);
+    font-weight: 800;
+    margin-top: 60px;
+    box-shadow: 0px 0px 50px 0px black;
+}
+
+#third{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    margin-left: 980px;
+    padding: 20px;
+    margin-top: -442px;
+    font-size: 28px;
+    box-shadow: 0px 0px 50px 0px rgb(136, 187, 224);
+}
+
+#three{
+    background-color: #232e5200;
+    border-color: rgb(0,150,255);
+    border-radius: 10px;
+    padding: 10px;
+    width: 180px;
+    color:rgb(0,150,255);
+    font-weight: 800;
+    margin-top: 14px;
+    box-shadow: 0px 0px 50px 0px black;
+}
+
+#three:hover{
+    transform: translateY(-5px);
+}
+
+#second:hover{
+    transform: translateY(-5px);
+}
+
+#first:hover{
+    transform: translateY(-5px);
+}
+
+#sec:hover{
+    transform: translateY(-5px);
+}
+
+#st:hover{
+    transform: translateY(-5px);
+}
+
+#third:hover{
+    transform: translateY(-5px);
+}
+
+
+
+
+
